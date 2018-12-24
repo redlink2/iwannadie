@@ -1,6 +1,27 @@
+CURRENT QUEUE:
+	Me
+		puzzle opening page?
+		some fill in
+		css m a y b e 
+		better mobile support (whole screen is <a>, better image)
+	
+	Kevin
+		artwork mockups for the site asap
+		fake ads for tyler or other things
+
+
 Moms ideas so far:
 	iwannadie.(not top level?)
 	
+	Ideas
+		date is supposed to be current?
+		secrets revealed about iwannadie.free, iwannadie.fan
+		 (iwannadie.key example)
+		rand num for entry on login no matter what
+		radio/podcast/live feature 
+		potentially use a js.framework (vue/django/react)
+		
+
 	site wide features
 		 no ads (maybe)
 		 color gradient scroll
@@ -26,7 +47,8 @@ Moms ideas so far:
 		iwannadie on a text bubble that links to home
 		about the story/site
 		navigational bar or just elements on the page
-			organised like the quarks/periodictable, other scientific graphs
+			organised like the quarks/periodictable, 
+			 other scientific graphs
 			story nav
 			about us
 			contact
@@ -35,10 +57,6 @@ Moms ideas so far:
 			rights & licensing
 		footer navbar
 			anything that shouldnt be in the main nav
-
-date is supposed to be current?
-secrets revealed about iwannadie.free (iwannadie.key example)
-rand num for entry on login no matter what
 
 
 Monetization options:
