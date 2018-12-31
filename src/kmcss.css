@@ -21,7 +21,7 @@ p {
      left:0;
      right:0;
      bottom:0;
-     margin:auto;
+     margin:0;
      background: url("msg0.png") no-repeat center;
 
 }
@@ -32,8 +32,8 @@ p {
      left:0;
      right:0;
      bottom:0;
-     margin:auto;
-     background: url("msg1.png") no-repeat center;
+     margin:0;
+     background: url("NYmsg.png") no-repeat center;
 
 }
 
