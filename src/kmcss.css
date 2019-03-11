@@ -12,7 +12,7 @@ h1, p {
      height: 100%;
      width:100%;
 }
-.msg {
+#msg {
      position:absolute;
      top:0;
      left:0;
@@ -23,7 +23,7 @@ h1, p {
 
 }
 
-.msg:hover {
+#msg:hover {
      position:absolute;
      top:0;
      left:0;
